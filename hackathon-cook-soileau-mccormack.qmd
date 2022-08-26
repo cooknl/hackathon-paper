@@ -93,7 +93,7 @@ A Data Hackathon allows your organization to:
 
 **Explore data infrastructure options.** Data infrastructure is a prerequisite for working with data. Monica Rogati, among others, made a comparison with Maslow's hierarchy of needs [@http://zotero.org/users/7103471/items/8FKVC28U] and created "The Data Science Hierarchy of Needs" [@http://zotero.org/users/7103471/items/4LGMVBAM], depicted as a triangle or pyramid.
 
-![The Data Science Hierarchy of Needs](data-science-heirarchy-of-needs.png)
+![The Data Science Hierarchy of Needs](data-science-hierarchy-of-needs.png)
 
 The basic components of infrastructure are:
 
