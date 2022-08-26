@@ -179,7 +179,7 @@ div.csl-indent {
 </section>
 <section id="introduction" class="level1">
 <h1>Introduction</h1>
-<p>The United States Department of the Air Force’s (DAF’s) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022 <span class="citation" data-cites="http://zotero.org/users/7103471/items/T67Q4I5G http://zotero.org/users/7103471/items/T6TMBPY9">(<a href="#ref-http://zotero.org/users/7103471/items/T67Q4I5G" role="doc-biblioref"><span>“Data Hackathon”</span> n.d.</a>; <a href="#ref-http://zotero.org/users/7103471/items/T6TMBPY9" role="doc-biblioref">Cloys 2022</a>)</span>. “Hackathons” are low risk, high return investments that can jumpstart your test organization’s digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps. With the advent of data science, big data, machine learning, and artificial intelligence, “Data Hackathons” bring the hackathon model to these data-centric disciplines.</p>
+<p>The United States Department of the Air Force’s (DAF’s) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022 <span class="citation" data-cites="http://zotero.org/groups/4761353/items/A2X8PWVC http://zotero.org/groups/4761353/items/9WDXW9X8">(<a href="#ref-http://zotero.org/groups/4761353/items/A2X8PWVC" role="doc-biblioref"><span>“Data Hackathon”</span> n.d.</a>; <a href="#ref-http://zotero.org/groups/4761353/items/9WDXW9X8" role="doc-biblioref">Cloys 2022</a>)</span>. “Hackathons” are low risk, high return investments that can jumpstart your test organization’s digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps. With the advent of data science, big data, machine learning, and artificial intelligence, “Data Hackathons” bring the hackathon model to these data-centric disciplines.</p>
 <p>This paper will explain the benefits of implementing a Data Hackathon in your flight test organization. In addition, a framework for planning, provisioning, executing, and following up on a Data Hackathon is provided, which can then be modified as required to meet the opportunities and constraints of your organization.</p>
 </section>
 <section id="benefits" class="level1">
@@ -193,7 +193,7 @@ div.csl-indent {
 </ul>
 <section id="explore" class="level2">
 <h2 class="anchored" data-anchor-id="explore">Explore</h2>
-<p><strong>Explore data infrastructure options.</strong> Data infrastructure is a prerequisite for working with data. Monica Rogati, among others, made a comparison with Maslow’s hierarchy of needs <span class="citation" data-cites="http://zotero.org/users/7103471/items/8FKVC28U">(<a href="#ref-http://zotero.org/users/7103471/items/8FKVC28U" role="doc-biblioref">Maslow 1943</a>)</span> and created “The Data Science Hierarchy of Needs” <span class="citation" data-cites="http://zotero.org/users/7103471/items/4LGMVBAM">(<a href="#ref-http://zotero.org/users/7103471/items/4LGMVBAM" role="doc-biblioref">Rogati 2017</a>)</span>, depicted as a triangle or pyramid, <a href="#fig-dshierarchy">Figure&nbsp;1</a>. Collection, movement, and storage are at the base of the pyramid. This representation is chronological, following the flow of data from source to working location, followed by techniques to explore, understand, and organize, before generating algorithms and models for inference, prediction, and influencing decisions.</p>
+<p><strong>Explore data infrastructure options.</strong> Data infrastructure is a prerequisite for working with data. Monica Rogati, among others, made a comparison with Maslow’s hierarchy of needs <span class="citation" data-cites="http://zotero.org/groups/4761353/items/XAE4EPLI">(<a href="#ref-http://zotero.org/groups/4761353/items/XAE4EPLI" role="doc-biblioref">Maslow 1943</a>)</span> and created “The Data Science Hierarchy of Needs” <span class="citation" data-cites="http://zotero.org/groups/4761353/items/HZHTBD79">(<a href="#ref-http://zotero.org/groups/4761353/items/HZHTBD79" role="doc-biblioref">Rogati 2017</a>)</span>, depicted as a triangle or pyramid, <a href="#fig-dshierarchy">Figure&nbsp;1</a>. Collection, movement, and storage are at the base of the pyramid. This representation is chronological, following the flow of data from source to working location, followed by techniques to explore, understand, and organize, before generating algorithms and models for inference, prediction, and influencing decisions.</p>
 <div id="fig-dshierarchy" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="data-science-hierarchy-of-needs.png" class="img-fluid figure-img"></p>
@@ -242,6 +242,28 @@ div.csl-indent {
 </section>
 <section id="expose" class="level2">
 <h2 class="anchored" data-anchor-id="expose">Expose</h2>
+<p><strong>Expose “data hackers” to your organization’s test and management data.</strong> Data silos, also known as information silos, are widely acknowledged as detrimental to organizational health, as evidenced by a quick web search for <code>"data silos" OR "information silos"</code>. The disadvantages are many, including:</p>
+<ul>
+<li><em>Duplication of data</em>, because everyone feels as if they need a local copy, or out of simple ignorance of the existence of the data elsewhere in the organization; results in loss of configuration management and authoritative sources</li>
+<li><em>Lack of diversity</em>, because no fresh eyes see the data, no new ideas or different perspectives can be heard; results in stagnation of process and thinking</li>
+<li><em>Increased friction</em>, because even the simplest data requests must be manually handled, sometimes literally so, making processes vulnerable to single points of failure if an individual is sick, on travel, or on leave; results in increased frustration and decreased efficiency and effectiveness</li>
+</ul>
+<p><a href="#fig-silos">Figure&nbsp;2</a> shows a conceptual example of duplicated information in different teams of the same organization, with no connections between them <span class="citation" data-cites="http://zotero.org/groups/4761353/items/NLVCKN9L">(<a href="#ref-http://zotero.org/groups/4761353/items/NLVCKN9L" role="doc-biblioref">http://factory.dev n.d.</a>)</span>. Such an organization would conceivably suffer from all of the disadvantages above.</p>
+<div id="fig-silos" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="Different-teams-in-business.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure 2: Examples of data silos with duplicated information and no connections</figcaption><p></p>
+</figure>
+</div>
+<p>Even without doing the heavy lifting of breaking down data silos and forging the infrastructure, policy, tooling, and more required for a sustainable solution, a Data Hackathon can:</p>
+<ul>
+<li>identify and highlight duplication</li>
+<li>bring in diversity of experience, skill, and even culture</li>
+<li>reduce friction by creating interpersonal connections and building trust across the organization</li>
+</ul>
+<section id="aftc-data-hackathon-exposure-to-data" class="level3">
+<h3 class="anchored" data-anchor-id="aftc-data-hackathon-exposure-to-data">AFTC Data Hackathon exposure to data</h3>
+</section>
 </section>
 <section id="evolve" class="level2">
 <h2 class="anchored" data-anchor-id="evolve">Evolve</h2>
@@ -264,56 +286,60 @@ div.csl-indent {
 </section>
 <section id="references" class="level1">
 <h1>References</h1>
+<p>Citations available on Zotero in the hackathon-paper Group, <a href="https://www.zotero.org/groups/4761353/hackathon-paper" class="uri">https://www.zotero.org/groups/4761353/hackathon-paper</a></p>
 <div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-http://zotero.org/users/7103471/items/WXGUUNF6" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/W4AHE2TU" class="csl-entry" role="doc-biblioentry">
 <span>“Apache Spark<sup>TM</sup> - Unified Engine for Large-Scale Data Analytics.”</span> n.d. Accessed August 26, 2022. <a href="https://spark.apache.org/">https://spark.apache.org/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/NC78UUAK" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/ZAWRCNMK" class="csl-entry" role="doc-biblioentry">
 <span>“Cloud Computing Services - Amazon Web Services (AWS).”</span> n.d. Amazon Web Services, Inc. Accessed August 26, 2022. <a href="https://aws.amazon.com/">https://aws.amazon.com/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/RJ674KAD" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/TWPWRU2H" class="csl-entry" role="doc-biblioentry">
 <span>“Cloud Computing Services | Microsoft Azure.”</span> n.d. Accessed August 26, 2022. <a href="https://azure.microsoft.com/en-us/">https://azure.microsoft.com/en-us/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/4II6LNRQ" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/W4LY4395" class="csl-entry" role="doc-biblioentry">
 <span>“Cloud Object Storage – Amazon S3 – Amazon Web Services.”</span> n.d. Amazon Web Services, Inc. Accessed August 26, 2022. <a href="https://aws.amazon.com/s3/">https://aws.amazon.com/s3/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/T6TMBPY9" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/9WDXW9X8" class="csl-entry" role="doc-biblioentry">
 Cloys, Tech Sgt. Robert. 2022. <span>“Third Iteration of AFTC Data Hackathon an Innovation Success.”</span> Air Force Test Center. August 17, 2022. <a href="https://www.aftc.af.mil/News/Article-Display/Article/3130340/third-iteration-of-aftc-data-hackathon-an-innovation-success">https://www.aftc.af.mil/News/Article-Display/Article/3130340/third-iteration-of-aftc-data-hackathon-an-innovation-success</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/NUTSTDPK" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/YGNDVSIH" class="csl-entry" role="doc-biblioentry">
 Corporation, Microsoft. n.d. <span>“Business Application Platform | Microsoft Power Platform.”</span> Accessed August 26, 2022. <a href="https://powerplatform.microsoft.com/en-us/">https://powerplatform.microsoft.com/en-us/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/A7S6G6NX" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/4D9443YZ" class="csl-entry" role="doc-biblioentry">
 <span>“Dash Overview.”</span> n.d. Accessed August 26, 2022. <a href="https://plotly.com/dash">https://plotly.com/dash</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/T67Q4I5G" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/A2X8PWVC" class="csl-entry" role="doc-biblioentry">
 <span>“Data Hackathon.”</span> n.d. Accessed August 26, 2022. <a href="https://www.aftc.af.mil/About-Us/Data-Hackathon/">https://www.aftc.af.mil/About-Us/Data-Hackathon/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/682S5D6Y" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/YASTC2JG" class="csl-entry" role="doc-biblioentry">
 <span>“Data Lakehouse Architecture and AI Company.”</span> n.d. Databricks. Accessed August 26, 2022. <a href="https://www.databricks.com/">https://www.databricks.com/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/N5T63KF2" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/U8ETAS9R" class="csl-entry" role="doc-biblioentry">
 <span>“Foundry | Palantir.”</span> n.d. Accessed August 26, 2022. <a href="https://www.palantir.com/platforms/foundry/">https://www.palantir.com/platforms/foundry/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/HQSKSD8N" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/NLVCKN9L" class="csl-entry" role="doc-biblioentry">
+http://factory.dev. n.d. <span>“Factory.dev Different Teams in Business.”</span> Accessed August 26, 2022. <a href="https://www.google.com/imgres?imgurl=https://d28hck101xajo9.cloudfront.net/asset/BlogPostContentImages/Dfferent-teams-in-business.png&amp;imgrefurl=https://factory.dev/pimcore-knowledge-base/whitepaper/data-silos&amp;tbnid=MWONI7kL5MbgjM&amp;vet=1&amp;docid=pMhOfYw8Ix9ElM&amp;w=1140&amp;h=696&amp;source=sh/x/im">https://www.google.com/imgres?imgurl=https://d28hck101xajo9.cloudfront.net/asset/BlogPostContentImages/Dfferent-teams-in-business.png&amp;imgrefurl=https://factory.dev/pimcore-knowledge-base/whitepaper/data-silos&amp;tbnid=MWONI7kL5MbgjM&amp;vet=1&amp;docid=pMhOfYw8Ix9ElM&amp;w=1140&amp;h=696&amp;source=sh/x/im</a>.
+</div>
+<div id="ref-http://zotero.org/groups/4761353/items/46KM9WG9" class="csl-entry" role="doc-biblioentry">
 <span>“Hue - The Open Source SQL Assistant for Data Warehouses.”</span> n.d. Accessed August 26, 2022. <a href="https://gethue.com/">https://gethue.com/</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/KD63DJQ5" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/VNBG25KQ" class="csl-entry" role="doc-biblioentry">
 <em>Innovation Connect | DAF Data Fabric | 09 May 2022</em>. 2022. DAF Chief Data and AI Office. <a href="https://www.youtube.com/watch?v=00HftDEJ6cY">https://www.youtube.com/watch?v=00HftDEJ6cY</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/8FKVC28U" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/XAE4EPLI" class="csl-entry" role="doc-biblioentry">
 Maslow, A. H. 1943. <span>“A Theory of Human Motivation.”</span> <em>Psychological Review</em> 50 (4): 370–96. <a href="https://doi.org/10.1037/h0054346">https://doi.org/10.1037/h0054346</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/TCRFMM24" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/YMZEEALK" class="csl-entry" role="doc-biblioentry">
 <span>“Microsoft 365 - Subscription for Office Apps | Microsoft 365.”</span> n.d. Accessed August 26, 2022. <a href="https://www.microsoft.com/en-us/microsoft-365">https://www.microsoft.com/en-us/microsoft-365</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/4LGMVBAM" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/HZHTBD79" class="csl-entry" role="doc-biblioentry">
 Rogati, Monica. 2017. <span>“The AI Hierarchy of Needs | HackerNoon.”</span> June 12, 2017. <a href="https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007">https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/5GXMEHWL" class="csl-entry" role="doc-biblioentry">
-Secretary of the Air Force Public Affairs. 2019. <span>“Chief Data Office Announces Capabilities for the VAULT Data Platform.”</span> Air Force. October 11, 2019. <a href="https://www.af.mil/News/Article-Display/Article/1987254/chief-data-office-announces-capabilities-for-the-vault-data-platform/https%3A%2F%2Fwww.af.mil%2FNews%2FArticle-Display%2FArticle%2F1987254%2Fchief-data-office-announces-capabilities-for-the-vault-data-platform%2F">https://www.af.mil/News/Article-Display/Article/1987254/chief-data-office-announces-capabilities-for-the-vault-data-platform/https%3A%2F%2Fwww.af.mil%2FNews%2FArticle-Display%2FArticle%2F1987254%2Fchief-data-office-announces-capabilities-for-the-vault-data-platform%2F</a>.
+<div id="ref-http://zotero.org/groups/4761353/items/JCHJEBV8" class="csl-entry" role="doc-biblioentry">
+Secretary of the Air Force Public Affairs. 2019. <span>“Chief Data Office Announces Capabilities for the VAULT Data Platform.”</span> Air Force. October 11, 2019. <a href="https://www.af.mil/News/Article-Display/Article/1987254/chief-data-office-announces-capabilities-for-the-vault-data-platform">https://www.af.mil/News/Article-Display/Article/1987254/chief-data-office-announces-capabilities-for-the-vault-data-platform</a>.
 </div>
-<div id="ref-http://zotero.org/users/7103471/items/A22DD7M5" class="csl-entry" role="doc-biblioentry">
+<div id="ref-http://zotero.org/groups/4761353/items/DHLU2L4T" class="csl-entry" role="doc-biblioentry">
 <span>“Zeppelin.”</span> n.d. Accessed August 26, 2022. <a href="https://zeppelin.apache.org/">https://zeppelin.apache.org/</a>.
 </div>
 </div>

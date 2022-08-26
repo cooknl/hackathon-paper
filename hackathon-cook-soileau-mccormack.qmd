@@ -89,7 +89,7 @@ Any mention of specific vendors, platforms, or tools is factual history of their
 
 # Introduction
 
-The United States Department of the Air Force's (DAF's) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022 [@http://zotero.org/users/7103471/items/T67Q4I5G; @http://zotero.org/users/7103471/items/T6TMBPY9]. "Hackathons" are low risk, high return investments that can jumpstart your test organization's digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps.  With the advent of data science, big data, machine learning, and artificial intelligence, "Data Hackathons" bring the hackathon model to these data-centric disciplines.
+The United States Department of the Air Force's (DAF's) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022 [@http://zotero.org/groups/4761353/items/A2X8PWVC; @http://zotero.org/groups/4761353/items/9WDXW9X8]. "Hackathons" are low risk, high return investments that can jumpstart your test organization's digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps.  With the advent of data science, big data, machine learning, and artificial intelligence, "Data Hackathons" bring the hackathon model to these data-centric disciplines.
 
 This paper will explain the benefits of implementing a Data Hackathon in your flight test organization. In addition, a framework for planning, provisioning, executing, and following up on a Data Hackathon is provided, which can then be modified as required to meet the opportunities and constraints of your organization.
 
@@ -104,7 +104,7 @@ A Data Hackathon allows your organization to:
 
 ## Explore
 
-**Explore data infrastructure options.** Data infrastructure is a prerequisite for working with data. Monica Rogati, among others, made a comparison with Maslow's hierarchy of needs [@http://zotero.org/users/7103471/items/8FKVC28U] and created "The Data Science Hierarchy of Needs" [@http://zotero.org/users/7103471/items/4LGMVBAM], depicted as a triangle or pyramid, @fig-dshierarchy. Collection, movement, and storage are at the base of the pyramid. This representation is chronological, following the flow of data from source to working location, followed by techniques to explore, understand, and organize, before generating algorithms and models for inference, prediction, and influencing decisions.
+**Explore data infrastructure options.** Data infrastructure is a prerequisite for working with data. Monica Rogati, among others, made a comparison with Maslow's hierarchy of needs [@http://zotero.org/groups/4761353/items/XAE4EPLI] and created "The Data Science Hierarchy of Needs" [@http://zotero.org/groups/4761353/items/HZHTBD79], depicted as a triangle or pyramid, @fig-dshierarchy. Collection, movement, and storage are at the base of the pyramid. This representation is chronological, following the flow of data from source to working location, followed by techniques to explore, understand, and organize, before generating algorithms and models for inference, prediction, and influencing decisions.
 
 ![The Data Science Hierarchy of Needs](data-science-hierarchy-of-needs.png){#fig-dshierarchy}
 
@@ -144,6 +144,26 @@ To the maximum extent, the hacker teams used government-furnished equipment (GFE
 
 ## Expose
 
+**Expose “data hackers” to your organization’s test and management data.** Data silos, also known as information silos, are widely acknowledged as detrimental to organizational health, as evidenced by a quick web search for `"data silos" OR "information silos"`. The disadvantages are many, including:
+
+- *Duplication of data*, because everyone feels as if they need a local copy, or out of simple ignorance of the existence of the data elsewhere in the organization; results in loss of configuration management and authoritative sources
+- *Lack of diversity*, because no fresh eyes see the data, no new ideas or different perspectives can be heard; results in stagnation of process and thinking
+- *Increased friction*, because even the simplest data requests must be manually handled, sometimes literally so, making processes vulnerable to single points of failure if an individual is sick, on travel, or on leave; results in increased frustration and decreased efficiency and effectiveness
+
+@fig-silos shows a conceptual example of duplicated information in different teams of the same organization, with no connections between them [@http://zotero.org/groups/4761353/items/NLVCKN9L]. Such an organization would conceivably suffer from all of the disadvantages above.
+
+![Examples of data silos with duplicated information and no connections](Different-teams-in-business.png){#fig-silos}
+
+Even without doing the heavy lifting of breaking down data silos and forging the infrastructure, policy, tooling, and more required for a sustainable solution, a Data Hackathon can:
+
+- identify and highlight duplication
+- bring in diversity of experience, skill, and even culture
+- reduce friction by creating interpersonal connections and building trust across the organization
+
+### AFTC Data Hackathon exposure to data
+
+
+
 ## Evolve
 
 ## Expand
@@ -161,6 +181,8 @@ Points to be drawn from the material and data provided.
 To extend thanks in support of the paper.
 
 # References
+
+Citations available on Zotero in the hackathon-paper Group, <https://www.zotero.org/groups/4761353/hackathon-paper>
 
 ::: {#refs}
 :::

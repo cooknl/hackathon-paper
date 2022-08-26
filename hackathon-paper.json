@@ -358,5 +358,25 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/NLVCKN9L",
+		"type": "webpage",
+		"title": "factory.dev Different teams in business",
+		"URL": "https://www.google.com/imgres?imgurl=https://d28hck101xajo9.cloudfront.net/asset/BlogPostContentImages/Dfferent-teams-in-business.png&imgrefurl=https://factory.dev/pimcore-knowledge-base/whitepaper/data-silos&tbnid=MWONI7kL5MbgjM&vet=1&docid=pMhOfYw8Ix9ElM&w=1140&h=696&source=sh/x/im",
+		"author": [
+			{
+				"literal": "http://factory.dev"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
 	}
 ]
