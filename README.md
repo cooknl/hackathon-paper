@@ -6,3 +6,5 @@
 - \*.docx is intended format for submission
 
 [Quarto](https://quarto.org/) technical publishing software is installed on a local machine. The markdown file, \*.qmd, is rendered into HTML and DOCX formats on the local machine, then pushed to the repo.
+
+Bibliography collection on Zotero <https://www.zotero.org/groups/4761353/hackathon-paper>
