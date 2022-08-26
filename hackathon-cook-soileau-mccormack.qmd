@@ -1,0 +1,103 @@
+---
+title: "Data Hackathons: Jumpstarting Your Test Organization's Digital Transformation"
+#date: 2022-10
+author: 
+  - id: cook
+    name:
+      given: Nathan
+      family: Cook
+      literal: Nathan Cook
+    email: nathan.cook.7@us.af.mil
+    affiliations:
+      - id: 96OG
+        name: Air Force Test Center, Department of the Air Force
+        department: 96th Operations Group
+        country: US
+    attributes:
+      corresponding: true
+  - id: soileau
+    name:
+      given: Troy
+      family: Soileau
+      literal: Capt Troy Soileau
+    email: troy.soileau.1@us.af.mil
+    affiliations:
+      - id: 96CTG
+        name: Air Force Test Center, Department of the Air Force
+        department: 96th Cyberspace Group
+        country: US
+    attributes:
+      equal-contributor: true
+  - id: mccormack
+    name:
+      given: Matthew
+      family: McCormack
+      literal: Maj Matthew McCormack
+    email: matthew.mccormack.1@us.af.mil
+    affiliations:
+      - id: USAFTPS
+        name: Air Force Test Center, Department of the Air Force
+        department: United States Air Force Test Pilot School
+        country: US
+    attributes:
+      equal-contributor: false
+
+format:
+  docx:
+    toc: false
+    number-sections: true
+    number-depth: 2
+    lang: en
+    reference-doc: custom-reference-doc.docx
+
+---
+
+--------------------------      ------------------------------------ --------------------------------
+ Nathan Cook                      Capt Troy Soileau                   Maj Matthew McCormack
+     
+ 96th Operations Group            96th Cyberspace Group               USAF Test Pilot School 
+     
+                                  Air Force Test Center
+                                  Department of the Air Force                                        
+--------------------------      ------------------------------------ --------------------------------
+
+# Abstract
+
+The United States Department of the Air Force's (DAF's) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022. "Hackathons" are low risk, high return investments that can jumpstart your test organization's digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps.  With the advent of data science, big data, machine learning, and artificial intelligence, "Data Hackathons" bring the hackathon model to these data-centric disciplines. A Data Hackathon allows your organization to: explore data infrastructure options, expose "data hackers" to your organization's test and management data, evolve third-party and in-house scripts and apps to solve real-world problems, and expand awareness of the state of the art digital technologies within your organization. The future of test will require ever increasing data volume, variety, and velocity. The pace of improvement in tools and techniques will continue to accelerate. Data Hackathons can focus your test teams and provide momentum for your organization's digital transformation.
+
+# Acronyms, Abbreviations, Symbols
+
+---------------------------- ---------------------------------------------
+AFTC                         Air Force Test Center
+DAF                          United States Department of the Air Force
+---------------------------- ---------------------------------------------
+
+# Introduction
+
+Informs the reader of the purpose of the paper.
+
+# Main Body
+
+Where all the general information and data resides.  Would expect there to be several Principal Headings under this category.
+
+## Here's a second-level heading
+
+# Lessons Learned
+
+Knowledge learned along the way and of value to the next brave soul to work in this area.
+
+# Conclusions
+
+Points to be drawn from the material and data provided.
+
+# Acknowledgement
+
+To extend thanks in support of the paper.
+
+# References
+
+These should follow the standard format for referencing supporting material.
+
+# Biography/Photograph
+
+A brief paragraph(s) of the author(s).  A photograph is highly recommended, but of course optional.
