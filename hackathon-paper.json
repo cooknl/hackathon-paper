@@ -57,5 +57,306 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/T67Q4I5G",
+		"type": "webpage",
+		"title": "Data Hackathon",
+		"URL": "https://www.aftc.af.mil/About-Us/Data-Hackathon/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/T6TMBPY9",
+		"type": "webpage",
+		"abstract": "Air Force Test Center hosted its third Data Hackathon virtually and in person at Edwards Air Force Base, Calif., August 8-12.",
+		"container-title": "Air Force Test Center",
+		"language": "en-US",
+		"title": "Third iteration of AFTC Data Hackathon an innovation success",
+		"URL": "https://www.aftc.af.mil/News/Article-Display/Article/3130340/third-iteration-of-aftc-data-hackathon-an-innovation-success",
+		"author": [
+			{
+				"family": "Cloys",
+				"given": "Tech Sgt. Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/KD63DJQ5",
+		"type": "motion_picture",
+		"dimensions": "1:02:25",
+		"publisher": "DAF Chief Data and AI Office",
+		"source": "YouTube",
+		"title": "Innovation Connect | DAF Data Fabric | 09 May 2022",
+		"URL": "https://www.youtube.com/watch?v=00HftDEJ6cY",
+		"performer": [
+			{
+				"family": "Synakowski",
+				"given": "Lt Col Ron"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/5GXMEHWL",
+		"type": "webpage",
+		"abstract": "The VAULT Platform now has a set of tools to support a full lifecycle of data exploitation activities. It is now possible to ingest data, manage storage, manage metadata, manipulate, cleanse and",
+		"container-title": "Air Force",
+		"language": "en-US",
+		"title": "Chief Data Office announces capabilities for the VAULT Data Platform",
+		"URL": "https://www.af.mil/News/Article-Display/Article/1987254/chief-data-office-announces-capabilities-for-the-vault-data-platform/https%3A%2F%2Fwww.af.mil%2FNews%2FArticle-Display%2FArticle%2F1987254%2Fchief-data-office-announces-capabilities-for-the-vault-data-platform%2F",
+		"author": [
+			{
+				"literal": "Secretary of the Air Force Public Affairs"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/682S5D6Y",
+		"type": "webpage",
+		"abstract": "Databricks combines data warehouses & data lakes into a lakehouse architecture. Collaborate on all of your data, analytics & AI workloads using one platform.",
+		"container-title": "Databricks",
+		"language": "en-US",
+		"title": "Data Lakehouse Architecture and AI Company",
+		"URL": "https://www.databricks.com/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/HQSKSD8N",
+		"type": "webpage",
+		"title": "Hue - The open source SQL Assistant for Data Warehouses",
+		"URL": "https://gethue.com/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/A22DD7M5",
+		"type": "webpage",
+		"title": "Zeppelin",
+		"URL": "https://zeppelin.apache.org/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/WXGUUNF6",
+		"type": "webpage",
+		"title": "Apache Spark™ - Unified Engine for large-scale data analytics",
+		"URL": "https://spark.apache.org/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/NC78UUAK",
+		"type": "webpage",
+		"abstract": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+		"container-title": "Amazon Web Services, Inc.",
+		"language": "en-US",
+		"title": "Cloud Computing Services - Amazon Web Services (AWS)",
+		"URL": "https://aws.amazon.com/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/A7S6G6NX",
+		"type": "webpage",
+		"abstract": "The Dash platform empowers data science teams to focus on the data and models, while producing and sharing enterprise-ready analytic apps that sit on top of Python and R models.",
+		"language": "en",
+		"title": "Dash Overview",
+		"URL": "https://plotly.com/dash",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/TCRFMM24",
+		"type": "webpage",
+		"abstract": "Microsoft 365 subscriptions include a set of familiar Office apps, intelligent cloud services, and world-class security in one place. Find the right plan for you.",
+		"language": "en-US",
+		"title": "Microsoft 365 - Subscription for Office Apps | Microsoft 365",
+		"URL": "https://www.microsoft.com/en-us/microsoft-365",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/NUTSTDPK",
+		"type": "webpage",
+		"abstract": "Quickly build data-driven business solutions with the Microsoft Power Platform—Power BI, Power Apps, Power Automate, and Power Virtual Agents.",
+		"language": "en",
+		"title": "Business Application Platform | Microsoft Power Platform",
+		"URL": "https://powerplatform.microsoft.com/en-us/",
+		"author": [
+			{
+				"family": "Corporation",
+				"given": "Microsoft"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/N5T63KF2",
+		"type": "webpage",
+		"title": "Foundry | Palantir",
+		"URL": "https://www.palantir.com/platforms/foundry/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/4II6LNRQ",
+		"type": "webpage",
+		"abstract": "Amazon S3 is cloud object storage with industry-leading scalability, data availability, security, and performance. S3 is ideal for data lakes, mobile applications, backup and restore, archival, IoT devices, ML, AI, and analytics.",
+		"container-title": "Amazon Web Services, Inc.",
+		"language": "en-US",
+		"title": "Cloud Object Storage – Amazon S3 – Amazon Web Services",
+		"URL": "https://aws.amazon.com/s3/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/RJ674KAD",
+		"type": "webpage",
+		"abstract": "Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure’s open and flexible cloud computing platform.",
+		"language": "en",
+		"title": "Cloud Computing Services | Microsoft Azure",
+		"URL": "https://azure.microsoft.com/en-us/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		}
 	}
 ]
