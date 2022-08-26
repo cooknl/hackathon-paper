@@ -1,6 +1,6 @@
 [
 	{
-		"id": "http://zotero.org/users/7103471/items/4LGMVBAM",
+		"id": "http://zotero.org/groups/4761353/items/HZHTBD79",
 		"type": "webpage",
 		"abstract": "As is usually the case with fast-advancing technologies, AI has inspired massive <a href=\"https://en.wikipedia.org/wiki/Fear_of_missing_out\" target=\"_blank\">FOMO</a>&nbsp;, <a href=\"https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt\" target=\"_blank\">FUD</a> and <a href=\"https://techcrunch.com/2017/07/25/elon-musk-mark-zuckerberg-artificial-intelligence/\" target=\"_blank\">feuds</a>. Some of it is deserved, <a href=\"https://chatbotnewsdaily.com/machine-learning-ai-and-the-emperors-vest-32b7bdd99b58\" target=\"_blank\">some of it not</a> — but the industry is paying attention. From stealth hardware startups to fintech giants to public institutions, teams are feverishly working on their AI strategy. It all comes down to one crucial, high-stakes question: <strong><em>‘How do we use AI and machine learning to get better at what we do?’</em></strong>",
 		"language": "en",
@@ -32,7 +32,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/8FKVC28U",
+		"id": "http://zotero.org/groups/4761353/items/XAE4EPLI",
 		"type": "article-journal",
 		"abstract": "After listing the propositions that must be considered as basic, the author formulates a theory of human motivation in line with these propositions and with the known facts derived from observation and experiment. There are 5 sets of goals (basic needs) which are related to each other and are arranged in a hierarchy of prepotency. When the most prepotent goal is realized, the next higher need emerges. \"Thus man is a perpetually wanting animal.\" Thwarting, actual or imminent, of these basic needs provides a psychological threat that leads to psychopathy. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
 		"container-title": "Psychological Review",
@@ -59,7 +59,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/T67Q4I5G",
+		"id": "http://zotero.org/groups/4761353/items/A2X8PWVC",
 		"type": "webpage",
 		"title": "Data Hackathon",
 		"URL": "https://www.aftc.af.mil/About-Us/Data-Hackathon/",
@@ -74,7 +74,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/T6TMBPY9",
+		"id": "http://zotero.org/groups/4761353/items/9WDXW9X8",
 		"type": "webpage",
 		"abstract": "Air Force Test Center hosted its third Data Hackathon virtually and in person at Edwards Air Force Base, Calif., August 8-12.",
 		"container-title": "Air Force Test Center",
@@ -107,7 +107,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/KD63DJQ5",
+		"id": "http://zotero.org/groups/4761353/items/VNBG25KQ",
 		"type": "motion_picture",
 		"dimensions": "1:02:25",
 		"publisher": "DAF Chief Data and AI Office",
@@ -140,13 +140,13 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/5GXMEHWL",
+		"id": "http://zotero.org/groups/4761353/items/JCHJEBV8",
 		"type": "webpage",
 		"abstract": "The VAULT Platform now has a set of tools to support a full lifecycle of data exploitation activities. It is now possible to ingest data, manage storage, manage metadata, manipulate, cleanse and",
 		"container-title": "Air Force",
 		"language": "en-US",
 		"title": "Chief Data Office announces capabilities for the VAULT Data Platform",
-		"URL": "https://www.af.mil/News/Article-Display/Article/1987254/chief-data-office-announces-capabilities-for-the-vault-data-platform/https%3A%2F%2Fwww.af.mil%2FNews%2FArticle-Display%2FArticle%2F1987254%2Fchief-data-office-announces-capabilities-for-the-vault-data-platform%2F",
+		"URL": "https://www.af.mil/News/Article-Display/Article/1987254/chief-data-office-announces-capabilities-for-the-vault-data-platform",
 		"author": [
 			{
 				"literal": "Secretary of the Air Force Public Affairs"
@@ -172,7 +172,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/682S5D6Y",
+		"id": "http://zotero.org/groups/4761353/items/YASTC2JG",
 		"type": "webpage",
 		"abstract": "Databricks combines data warehouses & data lakes into a lakehouse architecture. Collaborate on all of your data, analytics & AI workloads using one platform.",
 		"container-title": "Databricks",
@@ -190,7 +190,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/HQSKSD8N",
+		"id": "http://zotero.org/groups/4761353/items/46KM9WG9",
 		"type": "webpage",
 		"title": "Hue - The open source SQL Assistant for Data Warehouses",
 		"URL": "https://gethue.com/",
@@ -205,7 +205,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/A22DD7M5",
+		"id": "http://zotero.org/groups/4761353/items/DHLU2L4T",
 		"type": "webpage",
 		"title": "Zeppelin",
 		"URL": "https://zeppelin.apache.org/",
@@ -220,7 +220,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/WXGUUNF6",
+		"id": "http://zotero.org/groups/4761353/items/W4AHE2TU",
 		"type": "webpage",
 		"title": "Apache Spark™ - Unified Engine for large-scale data analytics",
 		"URL": "https://spark.apache.org/",
@@ -235,7 +235,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/NC78UUAK",
+		"id": "http://zotero.org/groups/4761353/items/ZAWRCNMK",
 		"type": "webpage",
 		"abstract": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
 		"container-title": "Amazon Web Services, Inc.",
@@ -253,7 +253,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/A7S6G6NX",
+		"id": "http://zotero.org/groups/4761353/items/4D9443YZ",
 		"type": "webpage",
 		"abstract": "The Dash platform empowers data science teams to focus on the data and models, while producing and sharing enterprise-ready analytic apps that sit on top of Python and R models.",
 		"language": "en",
@@ -270,7 +270,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/TCRFMM24",
+		"id": "http://zotero.org/groups/4761353/items/YMZEEALK",
 		"type": "webpage",
 		"abstract": "Microsoft 365 subscriptions include a set of familiar Office apps, intelligent cloud services, and world-class security in one place. Find the right plan for you.",
 		"language": "en-US",
@@ -287,7 +287,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/NUTSTDPK",
+		"id": "http://zotero.org/groups/4761353/items/YGNDVSIH",
 		"type": "webpage",
 		"abstract": "Quickly build data-driven business solutions with the Microsoft Power Platform—Power BI, Power Apps, Power Automate, and Power Virtual Agents.",
 		"language": "en",
@@ -310,7 +310,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/N5T63KF2",
+		"id": "http://zotero.org/groups/4761353/items/U8ETAS9R",
 		"type": "webpage",
 		"title": "Foundry | Palantir",
 		"URL": "https://www.palantir.com/platforms/foundry/",
@@ -325,7 +325,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/4II6LNRQ",
+		"id": "http://zotero.org/groups/4761353/items/W4LY4395",
 		"type": "webpage",
 		"abstract": "Amazon S3 is cloud object storage with industry-leading scalability, data availability, security, and performance. S3 is ideal for data lakes, mobile applications, backup and restore, archival, IoT devices, ML, AI, and analytics.",
 		"container-title": "Amazon Web Services, Inc.",
@@ -343,7 +343,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/7103471/items/RJ674KAD",
+		"id": "http://zotero.org/groups/4761353/items/TWPWRU2H",
 		"type": "webpage",
 		"abstract": "Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure’s open and flexible cloud computing platform.",
 		"language": "en",
