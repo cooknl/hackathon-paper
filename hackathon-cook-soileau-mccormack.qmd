@@ -50,6 +50,8 @@ format:
     lang: en
     reference-doc: custom-reference-doc.docx
 
+bibliography: hackathon-paper.json
+
 ---
 
 --------------------------      ------------------------------------ --------------------------------
@@ -74,13 +76,27 @@ DAF                          United States Department of the Air Force
 
 # Introduction
 
-Informs the reader of the purpose of the paper.
+The United States Department of the Air Force's (DAF's) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022. "Hackathons" are low risk, high return investments that can jumpstart your test organization's digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps.  With the advent of data science, big data, machine learning, and artificial intelligence, "Data Hackathons" bring the hackathon model to these data-centric disciplines.
 
-# Main Body
+This paper will explain the benefits of implementing a Data Hackathon in your flight test organization. In addition, a framework for planning, provisioning, executing, and following up on a Data Hackathon is provided, which can then be modified as required to meet the opportunities and constraints of your organization.
 
-Where all the general information and data resides.  Would expect there to be several Principal Headings under this category.
+# Benefits
 
-## Here's a second-level heading
+A Data Hackathon allows your organization to: 
+
+- explore data infrastructure options, 
+- expose "data hackers" to your organization's test and management data, 
+- evolve third-party and in-house scripts and apps to solve real-world problems, and 
+- expand awareness of the state of the art digital technologies within your organization.
+
+## Explore
+
+**Explore data infrastructure options.** Data infrastructure is a prerequisite for working with data. Monica Rogati, among others, made a comparison with Maslow's hierarchy of needs [@http://zotero.org/users/7103471/items/8FKVC28U] and created "The Data Science Hierarchy of Needs" [@http://zotero.org/users/7103471/items/4LGMVBAM], depicted as a triangle or pyramid.
+
+![The Data Science Hierarchy of Needs](data-science-heirarchy-of-needs.png)
+
+The basic components of infrastructure are:
+
 
 # Lessons Learned
 
@@ -96,7 +112,8 @@ To extend thanks in support of the paper.
 
 # References
 
-These should follow the standard format for referencing supporting material.
+::: {#refs}
+:::
 
 # Biography/Photograph
 

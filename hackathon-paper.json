@@ -1,0 +1,61 @@
+[
+	{
+		"id": "http://zotero.org/users/7103471/items/4LGMVBAM",
+		"type": "webpage",
+		"abstract": "As is usually the case with fast-advancing technologies, AI has inspired massive <a href=\"https://en.wikipedia.org/wiki/Fear_of_missing_out\" target=\"_blank\">FOMO</a>&nbsp;, <a href=\"https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt\" target=\"_blank\">FUD</a> and <a href=\"https://techcrunch.com/2017/07/25/elon-musk-mark-zuckerberg-artificial-intelligence/\" target=\"_blank\">feuds</a>. Some of it is deserved, <a href=\"https://chatbotnewsdaily.com/machine-learning-ai-and-the-emperors-vest-32b7bdd99b58\" target=\"_blank\">some of it not</a> — but the industry is paying attention. From stealth hardware startups to fintech giants to public institutions, teams are feverishly working on their AI strategy. It all comes down to one crucial, high-stakes question: <strong><em>‘How do we use AI and machine learning to get better at what we do?’</em></strong>",
+		"language": "en",
+		"title": "The AI Hierarchy of Needs | HackerNoon",
+		"URL": "https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007",
+		"author": [
+			{
+				"family": "Rogati",
+				"given": "Monica"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7103471/items/8FKVC28U",
+		"type": "article-journal",
+		"abstract": "After listing the propositions that must be considered as basic, the author formulates a theory of human motivation in line with these propositions and with the known facts derived from observation and experiment. There are 5 sets of goals (basic needs) which are related to each other and are arranged in a hierarchy of prepotency. When the most prepotent goal is realized, the next higher need emerges. \"Thus man is a perpetually wanting animal.\" Thwarting, actual or imminent, of these basic needs provides a psychological threat that leads to psychopathy. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
+		"container-title": "Psychological Review",
+		"DOI": "10.1037/h0054346",
+		"ISSN": "1939-1471",
+		"issue": "4",
+		"note": "publisher-place: US\npublisher: American Psychological Association",
+		"page": "370-396",
+		"source": "APA PsycNet",
+		"title": "A theory of human motivation",
+		"volume": "50",
+		"author": [
+			{
+				"family": "Maslow",
+				"given": "A. H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1943"
+				]
+			]
+		}
+	}
+]
