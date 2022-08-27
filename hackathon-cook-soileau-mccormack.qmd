@@ -92,9 +92,17 @@ Any mention of specific vendors, platforms, or tools is factual history of their
 
 # Introduction
 
-The United States Department of the Air Force's (DAF's) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022 [@http://zotero.org/groups/4761353/items/A2X8PWVC; @http://zotero.org/groups/4761353/items/9WDXW9X8]. "Hackathons" are low risk, high return investments that can jumpstart your test organization's digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps.  With the advent of data science, big data, machine learning, and artificial intelligence, "Data Hackathons" bring the hackathon model to these data-centric disciplines.
+The United States Department of the Air Force's (DAF's) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022 [@http://zotero.org/groups/4761353/items/A2X8PWVC; @http://zotero.org/groups/4761353/items/9WDXW9X8]. "Hackathons" are low risk, high return investments that can jumpstart your test organization's digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps [@http://zotero.org/groups/4761353/items/F8AERM7Z].  With the advent of data science, big data, machine learning, and artificial intelligence, "Data Hackathons" bring the hackathon model to these data-centric disciplines.
 
-This paper will explain the benefits of implementing a Data Hackathon in your flight test organization. For each benefit, the approach of the AFTC Data Hackathon will be summarized. In addition, a framework for planning, provisioning, executing, and following up on a Data Hackathon is provided, which can then be modified as required to meet the opportunities and constraints of your organization.
+The objectives of the AFTC Data Hackathon, in particular are:
+
+- Solve real AFTC problems
+- Discover and develop AFTC organic talent
+- Drive progress in availability and AFTC use of contemporary data technologies
+
+Your organization may have different specific objectives, and the objectives may vary from event to event.
+
+This paper will explain the benefits of implementing a Data Hackathon in your flight test organization. These benefits largely transcend the specific event objectives. For each benefit, the approach of the AFTC Data Hackathon will be summarized. In addition, a framework for planning, provisioning, executing, and following up on a Data Hackathon is provided, which can then be modified as required to meet the opportunities and constraints of your organization.
 
 # Benefits
 
@@ -119,7 +127,7 @@ The exact sequence, though, is not essential for the bottom two layers. The basi
 
 A Data Hackathon directly stresses all three components, by design. Your organization may have been considering adding or modifying aspects of each infrastructure component. The hackathon is an opportunity to put these updates in action and uncover pain points that would remain invisible without direct application of focused effort. The hacker teams may use the components in ways that were not anticipated by the originators, as well.
 
-### AFTC Data Hackathon Infrastructure
+### AFTC Data Hackathon Infrastructure {#sec-AFTCinfra}
 
 The AFTC Data Hackathon made use of infrastructure already existing and available to DAF members, but which may not be used to their full potential. To date, the primary platforms used, in chronological order:
 
@@ -189,8 +197,17 @@ The AFTC Data Hackathon is not focused on commercial sources of talent during th
 
 Real-world problems likewise have several advantages:
 
-- A built-in value proposition, since the Problem Owner has an existing pain point, little additional justification is required
-- Existing dataset, typically the problem is centered on the use of an existing dataset, reducing the need for "synthetic data" to emulate the use case [@http://zotero.org/groups/4761353/items/HRVBTAX4]
+- A built-in value proposition - the Problem Owner has an existing pain point, little additional justification is required
+- An existing dataset - typically the problem is centered on the use of an existing dataset, reducing the need for "synthetic data" to emulate the use case [@http://zotero.org/groups/4761353/items/HRVBTAX4] or deriving "notional" or "toy" problems that may not generalize well
+- Available domain knowledge - the Problem Owner has subject matter expertise to guide and clarify which approaches are best suited to the domain
+
+### AFTC Data Hackathon evolution of scripts and apps to solve real-world problems
+
+Expected products resulting from a hackathon are major dimension of variation. Some hackathons sole purpose is to create clean-sheet design and implementation of a desktop, phone, or cloud application. Some hackathons use a single problem as a means to compare different teams' performance. Some hackathons use toy problems to avoid complications that inevitably arise from using real-world problems, such as privacy, ill-prepared datasets, operations security, and many others. The AFTC Data Hackathon products vary by problem, but stand-alone application development is rarely required. Two of the three explicit objectives of the AFTC Data Hackathon are represented here. 
+
+To drive progress of contemporary data technologies, the organizers make the hacker teams aware of the available infrastructure mentioned above in @sec-AFTCinfra. Teams are highly encouraged to make use available frameworks, packages, and environments, working on GFE equipment and networks. 
+
+To solve real AFTC problems, the organizers advertise and solicit problem statements from across the Center. To date, multiple problems have been selected for each event. These vary widely in both their disciplines and their tool sets, providing a diverse offering for a diverse set of hackers. A Problem Owner is identified as the primary contact for any teams addressing their problem, providing domain knowledge. The Problem Owner provides the dataset, along with information about data sources and desired data products. 
 
 ## Expand
 

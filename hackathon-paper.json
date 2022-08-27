@@ -431,5 +431,105 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/X77LVPB3",
+		"type": "post",
+		"container-title": "Data Science Stack Exchange",
+		"title": "Answer to \"Data science without knowledge of a specific topic, is it worth pursuing as a career?\"",
+		"title-short": "Answer to \"Data science without knowledge of a specific topic, is it worth pursuing as a career?",
+		"URL": "https://datascience.stackexchange.com/a/2406",
+		"author": [
+			{
+				"family": "Kolassa",
+				"given": "Stephan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					11,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/8TDQEJRK",
+		"type": "article-journal",
+		"container-title": "Significance",
+		"DOI": "10.1111/1740-9713.01531",
+		"ISSN": "1740-9705, 1740-9713",
+		"issue": "3",
+		"journalAbbreviation": "Significance",
+		"language": "en",
+		"page": "34-35",
+		"source": "DOI.org (Crossref)",
+		"title": "How can we help decision‐makers?",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1111/1740-9713.01531",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Caulcutt",
+				"given": "Roland"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/F8AERM7Z",
+		"type": "entry-encyclopedia",
+		"abstract": "A hackathon (also known as a hack day, hackfest, datathon or codefest; a portmanteau of hacking marathon) is a sprint-like design event wherein computer programmers and others involved in software development, including graphic designers, interface designers, product managers, project managers, domain experts, and others collaborate intensively on software projects.\nThe goal of a hackathon is to create functioning software or hardware by the end of the event. Hackathons tend to have a specific focus, which can include the programming language used, the operating system, an application, an API, or the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created or the design of the new system.",
+		"container-title": "Wikipedia",
+		"language": "en",
+		"license": "Creative Commons Attribution-ShareAlike License",
+		"note": "Page Version ID: 1105422159",
+		"source": "Wikipedia",
+		"title": "Hackathon:Etymology",
+		"URL": "https://en.wikipedia.org/wiki/Hackathon#Etymology",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					20
+				]
+			]
+		}
 	}
 ]
