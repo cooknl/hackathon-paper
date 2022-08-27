@@ -81,8 +81,10 @@ DoD                          Department of Defense
 EC2                          Elastic Compute Cloud
 GFE                          Government Furnished Equipment
 OEM                          Original Equipment Manufacturer
+PA                           Public Affairs
 S3                           Simple Storage Service
 US                           United States
+USAF                         United States Air Force
 VPN                          Virtual Private Networks
 ---------------------------- ---------------------------------------------
 
@@ -108,10 +110,10 @@ This paper will explain the benefits of implementing a Data Hackathon in your fl
 
 A Data Hackathon allows your organization to: 
 
-- explore data infrastructure options, 
-- expose "data hackers" to your organization's test and management data, 
-- evolve third-party and in-house scripts and apps to solve real-world problems, and 
-- expand awareness of the state of the art digital technologies within your organization.
+- **explore** data infrastructure options, 
+- **expose** "data hackers" to your organization's test and management data, 
+- **evolve** third-party and in-house scripts and apps to solve real-world problems, and 
+- **expand** awareness of the state of the art digital technologies within your organization.
 
 ## Explore
 
@@ -197,9 +199,9 @@ The AFTC Data Hackathon is not focused on commercial sources of talent during th
 
 Real-world problems likewise have several advantages:
 
-- A built-in value proposition - the Problem Owner has an existing pain point, little additional justification is required
+- A built-in value proposition - the problem owner has an existing pain point, little additional justification is required
 - An existing dataset - typically the problem is centered on the use of an existing dataset, reducing the need for "synthetic data" to emulate the use case [@http://zotero.org/groups/4761353/items/HRVBTAX4] or deriving "notional" or "toy" problems that may not generalize well
-- Available domain knowledge - the Problem Owner has subject matter expertise to guide and clarify which approaches are best suited to the domain
+- Available domain knowledge - the problem owner has subject matter expertise to guide and clarify which approaches are best suited to the domain
 
 ### AFTC Data Hackathon evolution of scripts and apps to solve real-world problems
 
@@ -207,9 +209,33 @@ Expected products resulting from a hackathon are major dimension of variation. S
 
 To drive progress of contemporary data technologies, the organizers make the hacker teams aware of the available infrastructure mentioned above in @sec-AFTCinfra. Teams are highly encouraged to make use available frameworks, packages, and environments, working on GFE equipment and networks. 
 
-To solve real AFTC problems, the organizers advertise and solicit problem statements from across the Center. To date, multiple problems have been selected for each event. These vary widely in both their disciplines and their tool sets, providing a diverse offering for a diverse set of hackers. A Problem Owner is identified as the primary contact for any teams addressing their problem, providing domain knowledge. The Problem Owner provides the dataset, along with information about data sources and desired data products. 
+To solve real AFTC problems, the organizers advertise and solicit problem statements from across the Center. To date, multiple problems have been selected for each event. These vary widely in both their disciplines and their tool sets, providing a diverse offering for a diverse set of hackers. A problem owner is identified as the primary contact for any teams addressing their problem, providing domain knowledge. The problem owner provides the dataset, along with information about data sources and desired data products. 
 
 ## Expand
+
+**Expand awareness of the state of the art digital technologies within your organization.** No change is possible without action, but action without knowledge, understanding, and wisdom is futile. A popular US Air Force (USAF) pejorative is "*all thrust, no vector*," typically directed at junior personnel who are highly energetic, but not necessarily focused on a particular objective. Awareness is the beginning of knowledge, understanding, and wisdom. To jumpstart your organization's digital transformation, its personnel must know what options are at their disposal to solve their own problems.
+
+A Data Hackathon can provide a venue for showcasing data options. Thus far, this paper has focused on the organizers, problem owners, and hacker teams. If these are the only personnel aware of the state of the art digital technologies within your organization, change will be limited. To increase the breadth of awareness, several other populations can be directly involved in the event or can be otherwise engaged.
+
+Most directly, hacker team members need their supervisors' approval for participation. Hackathons are by definition significant and concentrated investments of time and attention, requiring prioritization above other tasks. In the approval process, the supervisors should be provided with an explanation of the objectives and methods for the event, including the technologies used.
+
+Direct involvement can also come in the form of a senior leader judge's panel. Judges are introduced to the problem sets, which brings the problems' existence to their attention. It should never be taken for granted that senior leaders are aware of such problems. Judges are also briefed on the teams' solutions, including the technologies used and remaining technology or policy gaps. 
+
+Other engagement can include broad advertisement of and invitations to:
+
+- event existence and registration
+- solution presentations
+- judging results and prizes
+
+Such notices should include direct references to technologies available, thus expanding awareness to peers and other leadership.
+
+### AFTC expansion of awareness
+
+AFTC consists of the Arnold Engineering Development Complex, the 412th Test Wing, and the 96th Test Wing, headquartered in central Tennessee, southern California, and northwest Florida, respectively. Each of these comprises several groups and divisions, and many squadrons, offices, and other units, many of which are located at bases and facilities not geographically coincident with their headquarters. Thanks to collaboration software, primarily Microsoft Teams, other communication channels, enterprise file sharing services, and cloud computing resources, data hackers can participate from any location. 
+
+By drawing on these diverse and distributed data hackers, the AFTC Data Hackathon supervisor approval directly reaches many units across the Center. Senior leader judges are primarily drawn from Center, Wing, and Complex levels, and sometimes from the Group and Division level. Conscious effort is made for broad representation among the judge's panel, to include officer, enlisted, and civil service leadership.
+
+Advertisement and invitations are broadly distributed through command channels, direct announcement among cross-cutting data working groups, basewide bulletins, innovation channels, public affairs (PA) articles, social media such as LinkedIn and Twitter, among others.
 
 # Lessons Learned
 
