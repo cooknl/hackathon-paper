@@ -378,5 +378,58 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/ERCKDGRP",
+		"type": "webpage",
+		"container-title": "Frequently Asked Questions - Creative Commons",
+		"title": "When is my use considered an adaptation?",
+		"URL": "https://creativecommons.org/faq/#When_is_my_use_considered_an_adaptation",
+		"author": [
+			{
+				"literal": "Creative Commons"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/HRVBTAX4",
+		"type": "webpage",
+		"abstract": "A set of open-source synthetic data generation tools meant to expand access to data without compromising privacy has been made available to the public by researchers in the Laboratory for Information Decision Systems (LIDS) at MIT.",
+		"container-title": "MIT News | Massachusetts Institute of Technology",
+		"language": "en",
+		"title": "The real promise of synthetic data",
+		"URL": "https://news.mit.edu/2020/real-promise-synthetic-data-1016",
+		"author": [
+			{
+				"literal": "Laboratory for Information and Decision Systems"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					16
+				]
+			]
+		}
 	}
 ]

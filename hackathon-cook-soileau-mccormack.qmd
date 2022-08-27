@@ -56,14 +56,14 @@ nocite: |
 
 ---
 
---------------------------      ------------------------------------ --------------------------------
+--------------------------      ------------------------------ -----------------------------------
  Nathan Cook                      Capt Troy Soileau                   Maj Matthew McCormack
      
  96th Operations Group            96th Cyberspace Group               USAF Test Pilot School 
      
                                   Air Force Test Center
                                   Department of the Air Force                                        
---------------------------      ------------------------------------ --------------------------------
+--------------------------      ------------------------------ -----------------------------------
 
 # Abstract
 
@@ -181,7 +181,16 @@ The AFTC Data Hackathon is not focused on commercial sources of talent during th
 
 ## Evolve
 
-**Evolve third-party and in-house scripts and apps to solve real-world problems.**
+**Evolve third-party and in-house scripts and apps to solve real-world problems.** Evolution, as opposed to "creatio ex nihilo" creating something from nothing, implies some existing capability that is then brought to bear to provide a solution. Evolution has many advantages for a Data Hackathon:
+
+- building on an existing foundation of code and tooling
+- encouraging reuse or remixing of existing capabilities [@http://zotero.org/groups/4761353/items/ERCKDGRP]
+- increasing the likelihood of an "out-of-the-box" solution that requires minimum installation or configuration when put into production
+
+Real-world problems likewise have several advantages:
+
+- A built-in value proposition, since the Problem Owner has an existing pain point, little additional justification is required
+- Existing dataset, typically the problem is centered on the use of an existing dataset, reducing the need for "synthetic data" to emulate the use case [@http://zotero.org/groups/4761353/items/HRVBTAX4]
 
 ## Expand
 

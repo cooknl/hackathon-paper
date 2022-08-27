@@ -12,3 +12,7 @@
 ## Bibliography
 
 Bibliography collection on Zotero <https://www.zotero.org/groups/4761353/hackathon-paper>
+
+As entries are added to the Zotero collection, the hackathon-paper collection is exported to the repo file `hackathon-paper.json` which is in CSL JSON format.
+
+Zotero auto-creates a CSL `id` field with a Zotero URL, which is used for citing works in the body of the paper, per <https://quarto.org/docs/authoring/footnotes-and-citations.html#citations>. More human-readable ids could be made, but would increase the workflow burden by adding a step to re-apply ids after every export.
