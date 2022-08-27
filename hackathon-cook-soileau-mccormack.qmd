@@ -77,9 +77,12 @@ API                          Application Programming Interface
 AWS                          Amazon Web Services
 CDAO                         Chief Data and Artificial Intelligence Office
 DAF                          United States Department of the Air Force
+DoD                          Department of Defense
 EC2                          Elastic Compute Cloud
 GFE                          Government Furnished Equipment
+OEM                          Original Equipment Manufacturer
 S3                           Simple Storage Service
+US                           United States
 VPN                          Virtual Private Networks
 ---------------------------- ---------------------------------------------
 
@@ -91,7 +94,7 @@ Any mention of specific vendors, platforms, or tools is factual history of their
 
 The United States Department of the Air Force's (DAF's) Air Force Test Center (AFTC) completed its third iteration of the AFTC Data Hackathon in August of 2022 [@http://zotero.org/groups/4761353/items/A2X8PWVC; @http://zotero.org/groups/4761353/items/9WDXW9X8]. "Hackathons" are low risk, high return investments that can jumpstart your test organization's digital transformation. Hackathons for software engineering have existed for more than two decades in the disciplines of cryptography, web development, and apps.  With the advent of data science, big data, machine learning, and artificial intelligence, "Data Hackathons" bring the hackathon model to these data-centric disciplines.
 
-This paper will explain the benefits of implementing a Data Hackathon in your flight test organization. In addition, a framework for planning, provisioning, executing, and following up on a Data Hackathon is provided, which can then be modified as required to meet the opportunities and constraints of your organization.
+This paper will explain the benefits of implementing a Data Hackathon in your flight test organization. For each benefit, the approach of the AFTC Data Hackathon will be summarized. In addition, a framework for planning, provisioning, executing, and following up on a Data Hackathon is provided, which can then be modified as required to meet the opportunities and constraints of your organization.
 
 # Benefits
 
@@ -162,9 +165,23 @@ Even without doing the heavy lifting of breaking down data silos and forging the
 
 ### AFTC Data Hackathon exposure to data
 
+Team formation for hackathons, or even the choice between individual hackers or a team approach, can vary according to the objectives of the event. One of the explicit objectives of the AFTC Data Hackathon is to discover latent organic talent. The AFTC Data Hackathon organizers operate on the assumption that there exists latent talent within AFTC and sister organizations, defined as people who:
 
+- are already highly skilled, but have not been tasked with data-centric activities in the course of their primary duties
+- are looking for ways to increase their data-centric skills, and even to make a career "pivot" away from their current role and into a more data-centric career field
+- are "data-curious" and interested in exploring data-centric activities, but have not been prepared or able to fully commit to pursuing building the skill set, which can be expensive in time, money, and attention, whether directly or via opportunity cost.
+
+The AFTC Data Hackathon is also focused on discovering and developing organic talent, defined as:
+
+- Military - active-duty, Reserve, or Guard military members
+- Civilian - United States Department of Defense (US DoD) civil service employees
+- Contractor - DoD support contractors, and to a lesser extent "prime" contractors who represent the original equipment manufacturers (OEM) of systems acquired by the DoD
+
+The AFTC Data Hackathon is not focused on commercial sources of talent during the event, and the event is not used as a way to assess commercial offerings not already available to AFTC. Proofs-of-concept or prototypes developed by organic talent during the event may lend themselves to commercial support to bring capabilities to production and daily use, but this path is not assumed a priori.
 
 ## Evolve
+
+**Evolve third-party and in-house scripts and apps to solve real-world problems.**
 
 ## Expand
 
