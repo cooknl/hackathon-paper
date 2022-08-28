@@ -9,7 +9,7 @@ draw.ellipse <- function(center,angle,semimajor,semiminor,radius,h,s,v,...) {
 name <- function(x,y,label,cex=1.2,...) text(x,y,label,cex=cex,...)
 
 len=1080
-cex_factor=1080/600
+cex_factor=len/600
 
 png("Venn.png",width=len,height=len)
 opar <- par(mai=c(0,0,0,0),lwd=3,font=2)

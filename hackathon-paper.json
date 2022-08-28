@@ -437,7 +437,7 @@
 		"type": "post",
 		"container-title": "Data Science Stack Exchange",
 		"title": "Answer to \"Data science without knowledge of a specific topic, is it worth pursuing as a career?\"",
-		"title-short": "Answer to \"Data science without knowledge of a specific topic, is it worth pursuing as a career?",
+		"title-short": "Kolassa's Data Science Venn Diagram",
 		"URL": "https://datascience.stackexchange.com/a/2406",
 		"author": [
 			{
@@ -528,6 +528,144 @@
 					"2022",
 					8,
 					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/U8ZIJIIB",
+		"type": "webpage",
+		"abstract": "On Monday I—humbly—joined a group of NYC's most sophisticated thinkers on all things data for a half-day  unconference  to help  O'Reily  organize their upcoming  Strata conference . The break out sessions were fantastic, and the number of people in each allowed for outstanding, expert driven, discu",
+		"container-title": "Drew Conway",
+		"genre": "Blog",
+		"language": "en-US",
+		"title": "The Data Science Venn Diagram",
+		"URL": "http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram",
+		"author": [
+			{
+				"family": "Conway",
+				"given": "Drew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					9,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/K6P3I7P7",
+		"type": "post-weblog",
+		"abstract": "Data science is a rather fuzzily defined field; some of the definitions I’ve heard are: “Work that takes more programming ... Read more",
+		"container-title": "ProoFFreader",
+		"genre": "Blog",
+		"language": "en-US",
+		"title": "Battle of data science venn diagrams",
+		"URL": "https://www.prooffreader.com/2016/09/battle-of-data-science-venn-diagrams.html",
+		"author": [
+			{
+				"family": "Taylor",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/QIZ9WQRC",
+		"type": "webpage",
+		"abstract": "The benefits of T-shaped Teams",
+		"container-title": "LinkedIn",
+		"genre": "LinkedIn Article",
+		"language": "en",
+		"title": "The benefits of T-shaped Teams",
+		"URL": "https://www.linkedin.com/pulse/benefits-t-shaped-teams-sara-gorj%C3%A3o",
+		"author": [
+			{
+				"family": "Gorjão",
+				"given": "Sara"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/TR9BVKCA",
+		"type": "book",
+		"event-place": "Berkeley, CA",
+		"ISBN": "978-1-4842-6227-6",
+		"language": "en",
+		"note": "DOI: 10.1007/978-1-4842-6228-3",
+		"publisher": "Apress",
+		"publisher-place": "Berkeley, CA",
+		"source": "DOI.org (Crossref)",
+		"title": "Data Teams: A Unified Management Model for Successful Data-Focused Teams",
+		"title-short": "Data Teams",
+		"URL": "https://link.springer.com/10.1007/978-1-4842-6228-3",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "Jesse"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
 				]
 			]
 		}
