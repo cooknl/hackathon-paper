@@ -326,11 +326,76 @@ Additionally, DAF CDAO VAULT storage is made
 - 8 weeks prior: 
   - Begin problem search in earnest
   - Create hacker questionnaire and supervisor approval forms
-  - Create collaboration environment 
+  - Create event-specific collaboration environment
+  - Begin inviting people to fill hacker organizer positions
+  - Reserve on-premises locations
+- 6 weeks prior:
+  - Post hacker questionnaire and supervisor approval forms
+  - Broadly advertise event registration
+  - Begin inviting senior leaders for judge's panel
+  - Begin problem meetings, including hackathon introduction and problem definition
+- 4 weeks prior:
+  - Begin problem scoping
+- 3 weeks prior:
+  - Begin problem introduction videos
+  - Coordinate communications plan with public affairs
+- 2 weeks prior:
+  - Finalize data hacker roster
+  - Complete problem introduction videos
+  - Post problem introduction videos to event-specific collaboration environment
+  - Confirm judge panel
+- 1 week prior:
+  - Share problem introduction videos with judges and data hackers
+  - Create event introduction video
+  - Create event feedback form
+  - Hackers post brief bios
+  - Hackers indicate initial problem preferences
+- Event Day 1:
+  - Provide administrative information about the on-premises site
+  - Play event introduction video
+  - Form teams
+  - Start hacking!
+- Event Day 2: 
+  - Hack
+  - Photos/interviews with public affairs
+- Event Day 3: Hack
+- Event Day 4:
+  - Finalize proof-of-concept/prototype
+  - Create solution presentation video
+- Event Day 5:
+  - Introduce judge panel
+  - Play solution presentation videos and provide time for judge questions and team answers
+  - Judges decide on awards
+  - Awards announced
+  - Wrap up the event
+  - Send feedback form to hackers, judges, and organizers
+  - Ensure public affairs has everything required to publish articles
+- 1 week post:
+  - Thank participants
+  - Follow up with problem owners to plan transition of solution to an operational state
+ 
 
 # Lessons Learned
 
-Knowledge learned along the way and of value to the next brave soul to work in this area.
+## Team Formation
+
+With a geographically distributed and potentially hybrid (on-premises and remote) event, forming teams is always a challenge, because individual hackers may not know each other, and communicating preferences is difficult. Ad hoc team formation has been sufficient, but more effective methods of getting an initial team lineup are being investigated, including combining individual problem preference ranking with linear programming to ensure minimum and maximum team size constraints can be set, as well as maximum coverage over the available problems. Such an initial lineup would be considered an "80% solution" and final team rosters would be determined after a period of freedom to move between teams.
+
+Team formation has been done the morning of Day 1 for the first three iterations of the AFTC Data Hackathon, but to smooth the process, and to allow more time for actual hacking, a better time may be the week prior, with last minute changes the morning of Day 1.
+
+## Judging
+
+The judges typically don't have significant free time, so preparation for their role is condensed. Combined with a scoring rubric that could be more broadly interpreted than intended, this has led to some of the judging questions and breakout discussions focused on aspects of the problems and solutions that were beyond the scope of the event.
+
+Updates to the rubric should be done after each event, and orientation of the judges to the rubric should be accomplished as early as practical. For the next event, we are considering having the judges watch all the problem introduction videos the week prior, then assigning one or two problems to each judge for them to have a focused meeting with the problem owner, to better understand the problem, as well as the value proposition offered by the event and the teams' solutions. During deliberations, the judges can then help the rest of the panel better understand the context of their focused problem.
+
+## Transition from Prototype to Production
+
+Operationalization of the AFTC Data Hackathon solutions has not been automatic. While two of the three explicit objectives are met even if the problem solutions never enter regular use, problem owners are best served when they can make use of the tools and techniques delivered by the hacker teams.
+
+Hopefully, adding more explicit post-event actions will help with the transition. Additionally, having the problem owner's unit provide at least one hacker working on their problem has been helpful for some teams.
+
+We expect this challenge to continue in the future, as hackathon product transitions are typically a struggle [@http://zotero.org/groups/4761353/items/4EU8JTIG]. However, by working closely with problem owners and updating the approach every iteration, we hope to improve the prototype survival rate.
 
 # Conclusions
 
@@ -345,6 +410,8 @@ These reasons generalize to any organization by a simple substitution of "*user*
 1. Increase business enterprise efficiency
 2. Increase mission operations capability
 3. Increase *user* capacity
+
+Flight test is by definition a data-centric activity. Data Hackathons provide an exciting, motivating, and enlightening means of improving your organizations approach to data.
 
 # Data Science Venn Diagrams {.appendix .unnumbered}
 
@@ -376,7 +443,9 @@ A few key takeaways:
 
 # Acknowledgement {.appendix .unnumbered}
 
-To extend thanks in support of the paper.
+The AFTC Data Hackathon organizers would like to extend a special thanks to the Innovation Cells at the 412th and 96th Test Wings and the dedication of Britney Reed and Kathy Reid to supporting the Data Hackathon with time, energy, manpower, facilities, and hardware.
+
+
 
 # References {.appendix .unnumbered}
 
