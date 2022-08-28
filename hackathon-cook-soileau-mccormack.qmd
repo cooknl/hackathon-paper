@@ -298,7 +298,35 @@ Problems arrive in several ways, but once identified, there are several steps re
     - *Desired Outcomes*:
       - Scope the problem statement and desired outcomes appropriately to the time and resource constraints of the event.
       - Create an "elevator pitch," a succinct summary of the problem statement, constraints, and desired outcome.
-    - As the outcome of this scoping 
+    - The result of this scoping serves as a contract of sorts, establishing expectations, so be explicit as possible.
+4. Problem Introduction
+    - *Desired Outcome*: A prerecorded video providing the problem statement, the motivation for the solution, and any other pertinent information
+
+## Hacker Questionnaire and Supervisor Approval
+
+The AFTC Data Hackathon uses a detailed questionnaire requesting demographic and organizational information, as well as experience in software, programming, machine learning. This doubles as event registration and as a talent survey.
+
+A separate supervisor approval form is generated for supervisor completion.
+
+## Collaboration Environment
+
+The AFTC Data Hackathon uses the government provided Microsoft Teams environment. There are three teams:
+
+1. Persistent "AFTC Data Hackathon" team for continuous discussion, announcements, file storage for general documentation. Final presentation meeting is hosted here.
+2. Persistent "AFTC Data Hackathon Planning" team for a hackathon organizers exclusively to avoid congesting the main team with detailed collaboration.
+3. Event-specific "AFTC Data Hackathon v*YY-#*" as a "working" space for hacker teams to collaborate, for organizers to make event-specific announcements and field questions relevant only to the specific event.
+
+Additionally, DAF CDAO VAULT storage is made 
+
+## Event Timeline
+
+- 9+ weeks prior: 
+  - Set event date
+  - Publish a "save the date" announcement
+- 8 weeks prior: 
+  - Begin problem search in earnest
+  - Create hacker questionnaire and supervisor approval forms
+  - Create collaboration environment 
 
 # Lessons Learned
 
@@ -322,13 +350,13 @@ These reasons generalize to any organization by a simple substitution of "*user*
 
 Many attempts to capture the essence of the field of data science have been made in the last decade and more. One of the earliest was from Drew Conway, @fig-conwayvenn, and explained in his blog post [@http://zotero.org/groups/4761353/items/U8ZIJIIB].
 
-![Conway's Data Science Venn Diagram](Data_Science_VD.png){#fig-conwayvenn}
+![Conway's Data Science Venn Diagram](Data_Science_VD.png){#fig-conwayvenn width=4in}
 
 In the years since, many attempts at summarizing the emerging field were made. One blog post found 13 different Venn diagrams [@http://zotero.org/groups/4761353/items/K6P3I7P7]!
 
 The version that covers the essentials and happens to be a correct 4-element Venn diagram, @fig-kolassavenn, was created by Stephan Kolassa in an answer to a Data Science Stack Exchange question [@http://zotero.org/groups/4761353/items/X77LVPB3].
 
-![Kolassa's Data Science Venn Diagram](Venn.png){#fig-kolassavenn}
+![Kolassa's Data Science Venn Diagram](Venn.png){#fig-kolassavenn width=4in}
 
 A few key takeaways:
 
