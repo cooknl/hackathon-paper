@@ -255,19 +255,23 @@ The benefits and costs of on-premises and remote participation must be weighed b
 
 **Problem Owner:** Primary point of contact to Data Hackathon personnel in general, and to the hacker teams working a solution, for problem definition and associated datasets. Attends problem definition and scoping meetings. Assists in creating communication content, including a "short title" to help uniquely identify the problem. Creates a pre-recorded problem introduction briefing for use by data hackers as they choose a problem to work during team formation, and for use by judges to educate the judges panel on the value proposition and context for the teams' solutions. Identifies an alternate problem owner. Work to operationalize the proof-of-concept or prototype generated during the event.
 
+**Judge:** Receives solution presentation briefings, asks questions to clarify the solution and its impact, applies rubric to award prizes.
+
 **Director:** Provides overall vision for the event. Sets event calendar. Determines event objectives. Ensures roles are filled and personnel are trained. 
 
-**Lead Software Officer:** This individual will guarantee the mission impact of the event and be responsible for guiding solutions from proof-of-concept or prototype created during the event to operationalization and beyond.
+**Lead Software Officer:** Guarantees the mission impact of the event and be responsible for guiding solutions from proof-of-concept or prototype created during the event to operationalization and beyond.
 
 **Event Site Lead:** *Broad project officer skill set*. Manages operations and logistics support for their site. (One per site)
 
-**Solution Development Support:** *Data science team leadership skill set*. These individuals work alongside hackers during the event and guide them through the process of working collaboratively in a team of developers. The solution development support position contributes to the “flavor” of all solutions during the event. (One per site)
+**Solution Development Support:** *Data science team leadership skill set*. Work alongside hackers during the event and guide them through the process of working collaboratively in a team of developers. The solution development support position contributes to the “flavor” of all solutions during the event. (One per site)
 
-**Mission/Data Solution Integration Lead:** *Data officers in-training*. These volunteers will gain experience leading problem owners in the translation of a mission problem into a data problem which is well-scoped for the event. They will gain a breadth of understanding in the field of data science and data engineering sufficient to help others scope problems or extrapolate solutions from the current state of possible.
+**Mission/Data Solution Integration Lead:** *Data officers in-training*. Gain experience leading problem owners in the translation of a mission problem into a data problem which is well-scoped for the event. They will gain a breadth of understanding in the field of data science and data engineering sufficient to help others scope problems or extrapolate solutions from the current state of possible.
 
 **Alternate Problem Owner:** Alternate point of contact if problem owner is unavailable to support definition, solution, and operationalization.
 
+## Problem Definition Process
 
+Problems arrive in several ways, but once identified, there are several steps required to prepare the problem prior to the event.
 
 # Lessons Learned
 
@@ -285,24 +289,25 @@ Many attempts to capture the essence of the field of data science have been made
 
 In the years since, many attempts at summarizing the emerging field were made. One blog post found 13 different Venn diagrams [@http://zotero.org/groups/4761353/items/K6P3I7P7]!
 
-The version that covers the essentials and happens to be a correct 4-element Venn diagram, @fig-kolassavenn was created by Stephan Kolassa in an answer to a Data Science Stack Exchange question [@http://zotero.org/groups/4761353/items/X77LVPB3].
+The version that covers the essentials and happens to be a correct 4-element Venn diagram, @fig-kolassavenn, was created by Stephan Kolassa in an answer to a Data Science Stack Exchange question [@http://zotero.org/groups/4761353/items/X77LVPB3].
 
 ![Kolassa's Data Science Venn Diagram](Venn.png){#fig-kolassavenn}
 
 A few key takeaways:
 
-1. No one person can cover down on all the elements with expertise. Data is a team sport. An organizational model more appropriate than a Venn Diagram may be a "T-diagram", @fig-tshape, which has each element in a column, and each person's skills indicated by the depth of each column [@http://zotero.org/groups/4761353/items/QIZ9WQRC]. The breadth is to encourage cross-talk and empathy within the team, and the depth is to ensure sufficient capability exists to complete the work.
+1. No single person can cover down on all the elements with expertise. Data is a team sport. An organizational model more appropriate than a Venn Diagram may be a "T-diagram", @fig-tshape, which has each element in a column, and each person's skills indicated by the depth of each column [@http://zotero.org/groups/4761353/items/QIZ9WQRC]. The breadth is to encourage cross-talk and empathy within the team, and the depth is to ensure sufficient capability exists to complete the work.
 
 ![T-shaped Professionals](t-shaped-professionals.png){#fig-tshape}
 
-2. These Venn diagrams speak only to the data science discipline. There are other disciplines as well
+2. These Venn diagrams speak only to the data science discipline. There are other disciplines as well, and a complete data team requires them all. Jesse Anderson writes about some ways to approach a whole-of-data team [@http://zotero.org/groups/4761353/items/TR9BVKCA].
+    - Data Science
+    - Data Engineering
+    - Data Operations
+    - Data Analyst
 
-- Data Science
-- Data Engineering
-- Data Operations
-- Data Analyst
+3. A hacker team shouldn't be restricted to the data disciplines. In addition to subject matter experts like the problem owner, other disciplines can make significant contributions to a hacker team. Human factors engineers specializing in human-systems interfaces can provide insight into user experience. Software engineers can provide programming patterns that make more efficient and maintainable code. The more the diverse the team, the more robust the solution.
 
-Jesse Anderson writes about some ways to approach a whole-of-data team [@http://zotero.org/groups/4761353/items/TR9BVKCA]
+
 
 # Acknowledgement {.appendix .unnumbered}
 
