@@ -669,5 +669,63 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/8UHGM7I7",
+		"type": "speech",
+		"abstract": "1. Increase business enterprise efficiency\n2. Increase mission operations capability\n3. Increase warfighter capacity",
+		"event-place": "Massachusetts Institute of Technology Lincoln Laboratory, Lexington, MA",
+		"event-title": "DAF Data & AI Forum",
+		"publisher-place": "Massachusetts Institute of Technology Lincoln Laboratory, Lexington, MA",
+		"title": "Closing Remarks",
+		"author": [
+			{
+				"family": "Olson",
+				"given": "Maj Gen John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4761353/items/7KJ56X42",
+		"type": "post-weblog",
+		"abstract": "If you love a design tool, set it free",
+		"container-title": "Medium",
+		"genre": "Blog",
+		"language": "en",
+		"title": "Defending Personas",
+		"URL": "https://mralancooper.medium.com/defending-personas-2657fe26dd0f",
+		"author": [
+			{
+				"family": "Cooper",
+				"given": "Alan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					9
+				]
+			]
+		}
 	}
 ]

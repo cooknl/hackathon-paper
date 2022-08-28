@@ -102,8 +102,8 @@ The United States Department of the Air Force's (DAF's) Air Force Test Center (A
 
 The objectives of the AFTC Data Hackathon, in particular are:
 
-- Solve real AFTC problems
-- Discover and develop AFTC organic talent
+- Solve real AFTC data problems
+- Discover and develop AFTC organic data talent
 - Drive progress in availability and AFTC use of contemporary data technologies
 
 Your organization may have different specific objectives, and the objectives may vary from event to event.
@@ -253,13 +253,13 @@ The benefits and costs of on-premises and remote participation must be weighed b
 
 **Data Hacker:** Any individual with the desire to increase their experience, knowledge, skills, and abilities in the areas of user-centered design, data science, data engineering, small team execution, and digital transformation, while solving interesting problems with real mission impact. A variety of backgrounds contribute to a diverse team, as seen in @fig-kolassavenn in the Appendix.
 
-**Problem Owner:** Primary point of contact to Data Hackathon personnel in general, and to the hacker teams working a solution, for problem definition and associated datasets. Attends problem definition and scoping meetings. Assists in creating communication content, including a "short title" to help uniquely identify the problem. Creates a pre-recorded problem introduction briefing for use by data hackers as they choose a problem to work during team formation, and for use by judges to educate the judges panel on the value proposition and context for the teams' solutions. Identifies an alternate problem owner. Work to operationalize the proof-of-concept or prototype generated during the event.
+**Problem Owner:** Primary point of contact to Data Hackathon personnel in general, and to the hacker teams working a solution in particular, for problem definition and associated datasets. Attends problem definition and scoping meetings. Assists in creating communication content, including a "short title" to help uniquely identify the problem. Creates a pre-recorded problem introduction briefing for use by data hackers as they choose a problem to work during team formation, and for use by judges to educate the judges panel on the value proposition and context for the teams' solutions. Identifies an alternate problem owner. Work to operationalize the proof-of-concept or prototype generated during the event.
 
 **Judge:** Receives solution presentation briefings, asks questions to clarify the solution and its impact, applies rubric to award prizes.
 
 **Director:** Provides overall vision for the event. Sets event calendar. Determines event objectives. Ensures roles are filled and personnel are trained. 
 
-**Lead Software Officer:** Guarantees the mission impact of the event and be responsible for guiding solutions from proof-of-concept or prototype created during the event to operationalization and beyond.
+**Lead Software Officer:** Guarantees the mission impact of the event and responsible for guiding solutions from proof-of-concept or prototype created during the event to operationalization and beyond.
 
 **Event Site Lead:** *Broad project officer skill set*. Manages operations and logistics support for their site. (One per site)
 
@@ -271,7 +271,34 @@ The benefits and costs of on-premises and remote participation must be weighed b
 
 ## Problem Definition Process
 
-Problems arrive in several ways, but once identified, there are several steps required to prepare the problem prior to the event.
+Problems arrive in several ways, but once identified, there are several steps required to prepare the problem prior to the event. These steps typically occur during one or more appointments. Having at least two event organizers present allows one to serve as "scribe" to document the discussion and the other(s) to focus on the interaction.
+
+1. Hackathon Introduction
+    - *Desired Outcomes*: 
+      - Determine if the problem is appropriate for the scope and outcomes of the Data Hackathon. 
+      - Determine mutual interest in moving forward. 
+      - If moving forward, identify a primary problem owner.
+    - Assume no prior knowledge, understanding, or experience with a Data Hackathon. Describe the broad objectives of the event and what a problem owner can expect as an outcome.
+    - Ask for a general overview of the problem.
+    - Explicitly ask if the problem owner is interested in submitting their problem to the event.
+    - Explicitly state an assessment of the suitability of the problem for the event.
+2. Problem Definition
+    - *Desired Outcomes*: 
+      - Define the problem as a data problem. 
+      - Create a "persona" describing a typical user of the solution [@http://zotero.org/groups/4761353/items/7KJ56X42].
+      - Identify relevant data sources. 
+      - Identify desired or required solution properties. 
+      - Identify any constraints on hacker team methods.
+      - Create a problem "short title" as a unique identifier for the event.
+    - Assuming no prior knowledge, understanding, or experience with the problem, have the problem owner dive deeply into the problem.
+    - If possible, have the problem owner demonstrate the dataset and as many process steps as practical.
+    - Reflectively listen, clarifying domain-specific terms, aka "jargon."
+    - Sketch a problem diagram, preferably in a manner visible to all participants, to provide a concrete basis for discussion.
+3. Problem Scoping
+    - *Desired Outcomes*:
+      - Scope the problem statement and desired outcomes appropriately to the time and resource constraints of the event.
+      - Create an "elevator pitch," a succinct summary of the problem statement, constraints, and desired outcome.
+    - As the outcome of this scoping 
 
 # Lessons Learned
 
@@ -279,7 +306,17 @@ Knowledge learned along the way and of value to the next brave soul to work in t
 
 # Conclusions
 
-Points to be drawn from the material and data provided.
+In his closing remarks for the first DAF Data and AI Forum in August of 2022, Maj Gen John "Sprocket" Olson succinctly stated the three reasons for the DAF focus on data and its effective use [@http://zotero.org/groups/4761353/items/8UHGM7I7]:
+
+1. Increase business enterprise efficiency
+2. Increase mission operations capability
+3. Increase warfighter capacity
+
+These reasons generalize to any organization by a simple substitution of "*user*" for "*warfighter*":
+
+1. Increase business enterprise efficiency
+2. Increase mission operations capability
+3. Increase *user* capacity
 
 # Data Science Venn Diagrams {.appendix .unnumbered}
 
@@ -295,11 +332,11 @@ The version that covers the essentials and happens to be a correct 4-element Ven
 
 A few key takeaways:
 
-1. No single person can cover down on all the elements with expertise. Data is a team sport. An organizational model more appropriate than a Venn Diagram may be a "T-diagram", @fig-tshape, which has each element in a column, and each person's skills indicated by the depth of each column [@http://zotero.org/groups/4761353/items/QIZ9WQRC]. The breadth is to encourage cross-talk and empathy within the team, and the depth is to ensure sufficient capability exists to complete the work.
+1. No single person can cover down on all the elements with expertise. Data is a team sport. An organizational model more appropriate than a Venn Diagram may be a "T-diagram", @fig-tshape, which has each element in a column, and each person's skills indicated by the depth of each column [@http://zotero.org/groups/4761353/items/QIZ9WQRC]. The breadth is to encourage cross-talk and empathy within the team, as well as interactions with others across the organizations, and the depth is to ensure sufficient capability exists to complete the work.
 
 ![T-shaped Professionals](t-shaped-professionals.png){#fig-tshape}
 
-2. These Venn diagrams speak only to the data science discipline. There are other disciplines as well, and a complete data team requires them all. Jesse Anderson writes about some ways to approach a whole-of-data team [@http://zotero.org/groups/4761353/items/TR9BVKCA].
+2. These Venn diagrams speak only to the data science discipline. There are other data disciplines as well, and a complete data team requires them all. Jesse Anderson writes about some ways to approach a whole-of-data team [@http://zotero.org/groups/4761353/items/TR9BVKCA].
     - Data Science
     - Data Engineering
     - Data Operations
