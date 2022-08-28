@@ -259,9 +259,9 @@ The benefits and costs of on-premises and remote participation must be weighed b
 
 **Lead Software Officer:** This individual will guarantee the mission impact of the event and be responsible for guiding solutions from proof-of-concept or prototype created during the event to operationalization and beyond.
 
-**Event Site Lead:** *Broad project officer skillset*. Manages operations and logistics support for their site. (One per site)
+**Event Site Lead:** *Broad project officer skill set*. Manages operations and logistics support for their site. (One per site)
 
-**Solution Development Support:** *Data science team leadership skillset*. These individuals work alongside hackers during the event and guide them through the process of working collaboratively in a team of developers. The solution development support position contributes to the “flavor” of all solutions during the event. (One per site)
+**Solution Development Support:** *Data science team leadership skill set*. These individuals work alongside hackers during the event and guide them through the process of working collaboratively in a team of developers. The solution development support position contributes to the “flavor” of all solutions during the event. (One per site)
 
 **Mission/Data Solution Integration Lead:** *Data officers in-training*. These volunteers will gain experience leading problem owners in the translation of a mission problem into a data problem which is well-scoped for the event. They will gain a breadth of understanding in the field of data science and data engineering sufficient to help others scope problems or extrapolate solutions from the current state of possible.
 
