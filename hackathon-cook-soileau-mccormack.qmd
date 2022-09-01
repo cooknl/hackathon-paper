@@ -77,19 +77,14 @@ The United States Department of the Air Force's (DAF's) Air Force Test Center (A
 
 ---------------------------- ---------------------------------------------
 AFTC                         Air Force Test Center
-API                          Application Programming Interface
 AWS                          Amazon Web Services
 CDAO                         Chief Data and Artificial Intelligence Office
 DAF                          United States Department of the Air Force
 DoD                          Department of Defense
 EC2                          Elastic Compute Cloud
 GFE                          Government Furnished Equipment
-OEM                          Original Equipment Manufacturer
-PA                           Public Affairs
 S3                           Simple Storage Service
-US                           United States
 USAF                         United States Air Force
-VPN                          Virtual Private Networks
 ---------------------------- ---------------------------------------------
 
 # Disclaimer
@@ -155,9 +150,9 @@ The AFTC Data Hackathon made use of infrastructure already existing and availabl
   - AWS EC2 and S3
   - Palantir Foundry
   - Python and R scripting
-  - Data Application Programming Interfaces (APIs)
+  - Data Application Programming Interfaces
 
-To the maximum extent, the hacker teams used government-furnished equipment (GFE), including computers, network connections, and virtual private networks (VPNs), to ensure any outcomes of the event could be implemented within the significant constraints of the DAF network environment.
+To the maximum extent, the hacker teams used government-furnished equipment (GFE), including computers, network connections, and virtual private networks, to ensure any outcomes of the event could be implemented within the significant constraints of the DAF network environment.
 
 ## Expose
 
@@ -189,7 +184,7 @@ The AFTC Data Hackathon is also focused on discovering and developing organic ta
 
 - Military - active-duty, Reserve, or Guard military members
 - Civilian - United States Department of Defense (US DoD) civil service employees
-- Contractor - DoD support contractors, and to a lesser extent "prime" contractors who represent the original equipment manufacturers (OEM) of systems acquired by the DoD
+- Contractor - DoD support contractors, and to a lesser extent "prime" contractors who represent the original equipment manufacturers of systems acquired by the DoD
 
 The AFTC Data Hackathon is not focused on commercial sources of talent during the event, and the event is not used as a way to assess commercial offerings not already available to AFTC. Proofs-of-concept or prototypes developed by organic talent during the event may lend themselves to commercial support to bring capabilities to production and daily use, but this path is not assumed a priori.
 
@@ -239,7 +234,7 @@ AFTC consists of the Arnold Engineering Development Complex, the 412th Test Wing
 
 By drawing on these diverse and distributed data hackers, the AFTC Data Hackathon supervisor approval directly reaches many units across the Center. Senior leader judges are primarily drawn from Center, Wing, and Complex levels, and sometimes from the Group and Division level. Conscious effort is made for broad representation among the judge's panel, to include officer, enlisted, and civil service leadership.
 
-Advertisement and invitations are broadly distributed through command channels, direct announcement among cross-cutting data working groups, basewide bulletins, innovation channels, public affairs (PA) articles, social media such as LinkedIn and Twitter, among others.
+Advertisement and invitations are broadly distributed through command channels, direct announcement among cross-cutting data working groups, basewide bulletins, innovation channels, public affairs articles, social media such as LinkedIn and Twitter, among others.
 
 
 
@@ -316,7 +311,9 @@ The AFTC Data Hackathon uses the government provided Microsoft Teams environment
 2. Persistent "AFTC Data Hackathon Planning" team for a hackathon organizers exclusively to avoid congesting the main team with detailed collaboration.
 3. Event-specific "AFTC Data Hackathon v*YY-#*" as a "working" space for hacker teams to collaborate, for organizers to make event-specific announcements and field questions relevant only to the specific event.
 
-Additionally, DAF CDAO VAULT storage is made 
+Additionally, DAF CDAO VAULT storage is set up for the teams' use ahead of time. 
+
+Color names is one method to decouple preset team folders from projects titles prior to team formation. That is "Team Gold, Team Blue," etc.
 
 ## Event Timeline
 
@@ -373,6 +370,8 @@ Additionally, DAF CDAO VAULT storage is made
 - 1 week post:
   - Thank participants
   - Follow up with problem owners to plan transition of solution to an operational state
+- 2 weeks post:
+  - Outbrief to Center leadership
  
 
 # Lessons Learned
@@ -443,7 +442,7 @@ A few key takeaways:
 
 # Acknowledgements {.appendix .unnumbered}
 
-The AFTC Data Hackathon organizers would like to extend a special thanks to the Innovation Cells at the 412th and 96th Test Wings and the dedication of Britney Reed and Kathy Reid to supporting the Data Hackathon with time, energy, manpower, facilities, and hardware.
+The AFTC Data Hackathon organizers would like to extend a special thanks to the Innovation Cells at the 412th and 96th Test Wings and the Arnold Engineering Development Complex. The event would not have been possible without the dedication of Britney Reed, Kathy Reid, and Brandon Stiles, supporting the Data Hackathon with time, energy, manpower, facilities, and hardware.
 
 
 
@@ -451,30 +450,3 @@ The AFTC Data Hackathon organizers would like to extend a special thanks to the 
 
 ::: {#refs}
 :::
-
-# Biographies {.appendix .unnumbered}
-
-**Mr. Nathan L. Cook** [Nay-thuhn Cook]
-
-![](cook-pic.png){width=2in}
-
-Nathan is currently a Department of the Air Force federal civil servant serving as the chief data officer of the 96th Operations Group, 96th Test Wing, Eglin Air Force Base (AFB), FL. He is responsible for transforming the Group's approach to data in its business process and mission operations. He has served two years at Wright-Patterson Air Force Base, OH, nine years at Edwards AFB, CA, and nine years at Eglin AFB. He was the chief test engineer at the 40th Flight Test Squadron at Eglin, responsible for test and safety processes and execution of F-16, F-15C/E/EX, and A-10 ground and flight test. When he arrived at Eglin, he was the lead test engineer for F-16 software upgrades. While at Edwards, he was an instructor FTE at the USAF Test Pilot School, serving as Flying Qualities Branch Chief, Glider Instructor Pilot, and Chief of Control Room Standards and Evaluation. That was preceded by testing the F-16 in the Weapons Integration Section of the 416th Flight Test Squadron, as well as engaging Kindergarten through college students as an outreach engineer in the Engineer Development Office of the 412th Test Wing. Nathan’s first job with the Air Force was at Wright-Patterson AFB in the Aerospace Survivability and Safety Flight as a live-fire survivability test engineer.
-
-Nathan holds degrees from the following institutions:
-
-- Bachelor of Science Physics, Harvey Mudd College, 1995
-- Master of Education Secondary Science, Converse College, 1997
-- Master of Science Mechanical Engineering Control Systems, Georgia Institute of Technology, 2002
-- Master of Science Flight Test Engineering, USAF Test Pilot School, 2007
-- Master of Science Analytics, Georgia Institute of Technology, 2019
-
-Nathan previously presented the SFTE papers:
-
-- J. Minor, D. Warner, J. Hurtado, N. Cook, “Lessons Learned During Development of a Hands-On Unmanned Aerial Vehicle Flight Test and Evaluation Training Course,” 36th Annual Society of Flight Test Engineers Symposium, October 3-6, 2005, Fort Worth, TX 
-- N. Cook, “A Proposal for a Flight Test Brevity Standard,” 45th Annual Society of Flight Test Engineers Symposium, August 19-21, 2014, Dayton, OH
-- N. Cook, J. Gipson, C. Menino, W. Reigelsperger, S. Rinella, B. Ward, “A Blank Slate: Redefining F-16 Flight Test,” 45th Annual Society of Flight Test Engineers Symposium, August 19-21, 2014, Dayton, OH
-- N. Cook presenting C. Knief, M. Russell, “Managing Flight Test Risk for the F-16 Landing Gear Loads Survey,” 45th Annual Society of Flight Test Engineers Symposium, August 19-21, 2014, Dayton, OH
-- N. Cook, “F-16 M7 - Breaking Organizational Barriers,” 46th Annual Society of Flight Test Engineers Symposium, September 14-17, 2015, Lancaster, CA
-
-Nathan is a Senior Member of the Society, the Editor of the SFTE Handbook, former Webmaster of the Emerald Coast Chapter of SFTE, and served two terms as Treasurer of the Antelope Valley Chapter. Nathan is also a member of the Soaring Society of America.
-
