@@ -1,6 +1,6 @@
 ---
 title: "Data Hackathons: Jumpstarting Your Test Organization's Digital Transformation"
-#date: 2022-10
+date: 2022-10-27
 author: 
   - id: cook
     name:
@@ -27,7 +27,7 @@ author:
         department: 96th Cyberspace Group
         country: US
     attributes:
-      equal-contributor: true
+      equal-contributor: false
   - id: mccormack
     name:
       given: Matthew
@@ -60,6 +60,13 @@ nocite: |
 
 ---
 
+::: {.content-hidden}
+For pdf, open docx and create pdf from there
+:::
+
+
+::: {.content-hidden unless-format="docx" }
+
 --------------------------      ------------------------------ -----------------------------------
  Nathan Cook                      Capt Troy Soileau                   Maj Matthew McCormack
      
@@ -68,6 +75,9 @@ nocite: |
                                   Air Force Test Center
                                   Department of the Air Force                                        
 --------------------------      ------------------------------ -----------------------------------
+
+:::
+
 
 DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited. 96TW-2022-0053
 
