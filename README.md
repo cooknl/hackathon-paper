@@ -1,5 +1,7 @@
 # Paper for SFTE 2022
 
+DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited. 96TW-2022-0053
+
 - Use issues to track comments
 - \*.qmd is source (Quarto markdown)
 - \*.html is for preview only
