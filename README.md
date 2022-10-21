@@ -1,6 +1,6 @@
 # Paper for SFTE 2022
 
-<https://github.com/cooknl/hackathon-paper/blob/main/hackathon-cook-soileau-mccormack.html>
+<https://cooknl.github.io/hackathon-paper/>
 
 DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited. 96TW-2022-0053
 
